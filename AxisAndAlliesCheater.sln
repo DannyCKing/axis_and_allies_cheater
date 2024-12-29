@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AxisAndAlliesCheater", "AxisAndAlliesCheater\AxisAndAlliesCheater.csproj", "{0C5CB20F-3B37-46CA-8095-7019ED14A7EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C5CB20F-3B37-46CA-8095-7019ED14A7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C5CB20F-3B37-46CA-8095-7019ED14A7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C5CB20F-3B37-46CA-8095-7019ED14A7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C5CB20F-3B37-46CA-8095-7019ED14A7EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7D8005F-96EB-43F4-BB15-AB9A17A04CBE}
+	EndGlobalSection
+EndGlobal
